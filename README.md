@@ -1,16 +1,13 @@
-## Hi there 👋
+## hey, i'm hoodgang 👋
 
-<!--
-**hoodgang/hoodgang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer interested in simple tools and pragmatic development. Based in Japan.
 
-Here are some ideas to get you started:
+- happier in a terminal than in an IDE
+- learning Node.js the slow way
+- rewrites it once, then leaves it alone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hoodgang&hide_border=true&theme=tokyonight" alt="Commit streak" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoodgang&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
+
+<img src="https://img.shields.io/badge/SQLite-f778ba?style=for-the-badge&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/Express-f778ba?style=for-the-badge&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/TypeScript-f778ba?style=for-the-badge&logoColor=white" alt="TypeScript" />
